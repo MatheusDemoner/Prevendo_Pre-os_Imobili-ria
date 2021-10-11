@@ -1,4 +1,4 @@
-# Prevendo_Precos_Imobiliaria
+# House_Pricing
 
 ## Projeto criado com o objetivo de prever preços de casas na Califórnia usando regressão.
 
